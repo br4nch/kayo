@@ -1,4 +1,4 @@
-token = "MTEzNzc3NzEwMzc3MzkxMzE0OA.GGl6QH.ux4bq4ZO6U9IbTi8i34hV8ECOTj5zrNVULt4j4"
+token = ""
 prefix = ";"
 support = "https://discord.gg/juno"
 owner_ids = [750379503179661444, 1074668481867419758]
